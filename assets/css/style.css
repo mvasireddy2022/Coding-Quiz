@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: linen;
+}
+
+a {
+    color: black;
+}
+
+p {
+    color: black;
+    font-size: 22px;
+}
+
+.header {
+    height: 100%;
+    text-align: center;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    background-color: linen;
+    color: black;
+    display: grid;
+    justify-content: center;
+}
